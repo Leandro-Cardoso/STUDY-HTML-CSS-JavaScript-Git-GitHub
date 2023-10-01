@@ -1,15 +1,20 @@
 # Estudo de HTML, CSS, JavaScript, Git e GitHub - Básico
 
-### [🔑 MIT License](https://github.com/Leandro-Cardoso/STUDY-HTML-CSS-JavaScript-Git-GitHub/blob/master/LICENSE)
-
-[🌎 **LINK DO PROJETO**](https://Leandro-Cardoso.github.io/STUDY-HTML-CSS-JavaScript-Git-GitHub/projeto/)
+**<a href="https://github.com/Leandro-Cardoso/STUDY-HTML-CSS-JavaScript-Git-GitHub/blob/master/LICENSE" target="_blank">
+    🔑 MIT License
+</a><br>
+<a href="https://Leandro-Cardoso.github.io/STUDY-HTML-CSS-JavaScript-Git-GitHub/projeto/" target="_blank">
+    🌎 LINK DO PROJETO
+</a>**
 
 <div align="center">
     <h2>Sobre</h2>
 </div>
 
 Estudo de nível iniciante feito através do curso "discover" da Rocketseat de 5h.<br>
-[Rocketseat - discover](https://www.rocketseat.com.br/discover)
+**<a href="https://www.rocketseat.com.br/discover/" target="_blank">
+    🌎 Rocketseat - discover
+</a>**
 
 <p>
     <img src=".github/preview.png" alt="Preview" />
@@ -30,8 +35,8 @@ Estudo de nível iniciante feito através do curso "discover" da Rocketseat de 5
 
 <div align="center">
     <h2>Autor</h2>
-    <a href="https://github.com/Leandro-Cardoso">
+    <a href="https://github.com/Leandro-Cardoso" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/41876952?v=4" alt="Profile Pic" width="150" style="border-radius: 50%"/>
+        <h3>Leandro Cardoso</h3>
     </a>
-    <h3>Leandro Cardoso</h3>
 </div>
