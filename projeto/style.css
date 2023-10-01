@@ -82,11 +82,18 @@ body * {
     background: #eee var(--switch-bg-url) no-repeat center/16px;
     border: 0;
     border-radius: 50%;
+
+    animation: slide-to-left .2s;
 }
 
 .light #switch button {
-    left: initial;
-    right: 0;
+    /*left: initial;
+    right: 0;*/
+    animation: slide-to-right .2s forwards;
+}
+
+#switch button:hover {
+    outline: 8px solid var(--button-color);
 }
 
 #switch span {
@@ -163,9 +170,29 @@ ul li a:hover {
     background: var(--social-link-color-hover);
 }
 
+/* FOOTER */
 footer {
     padding: 24px 0;
 
     text-align: center;
     font-size: 14px;
+}
+
+/* ANIMATIONS */
+@keyframes slide-to-right {
+    from {
+        left: 0;
+    }
+    to {
+        left: 50%;
+    }
+}
+
+@keyframes slide-to-left {
+    from {
+        left: 50%;
+    }
+    to {
+        left: 0;
+    }
 }
