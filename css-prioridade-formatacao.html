@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRIORIDADE DE FORMATAÇÃO CSS</title>
+    <style>
+        /* PRIORIDADE DE FORMATAÇÃO: */
+        /* Existe prioridade maior para o id #nome e depois para a classe .nome e por último a própria tag do elemento */
+        #com-id {
+            color: yellow;
+            background-color: black;
+        }
+        .com-classe {
+            color: blue;
+        }
+        /* Por elemento a última configuração é a que fica */
+        p {
+            color: red;
+        }
+        p {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>PRIORIDADE DE FORMATAÇÃO CSS:</h1>
+    <p>Existe prioridade maior para o id #nome e depois para a classe .nome e por último a própria tag do elemento.</p>
+    <p id="com-id">Elemento com ID</p>
+    <p class="com-classe">Elemento com Classe</p>
+    <p>Elemento somente com Tag</p>
+</body>
+</html>
