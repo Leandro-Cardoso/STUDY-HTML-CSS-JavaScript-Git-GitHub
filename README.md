@@ -2,7 +2,7 @@
 
 ### [🔑 MIT License](https://github.com/Leandro-Cardoso/STUDY-HTML-CSS-JavaScript-Git-GitHub/blob/master/LICENSE)
 
-[🌎 **LINK DO PROJETO**]() - Não publicado
+[🌎 **LINK DO PROJETO**](https://Leandro-Cardoso.github.io/STUDY-HTML-CSS-JavaScript-Git-GitHub/projeto/)
 
 <div align="center">
     <h2>Sobre</h2>
