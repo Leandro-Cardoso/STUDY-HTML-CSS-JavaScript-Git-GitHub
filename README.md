@@ -29,19 +29,7 @@ Estudo de nível iniciante feito através do curso "discover" da Rocketseat de 5
 6. Git e GitHub.
 
 <div align="center">
-    <h2>How to contribute?</h2>
-</div>
-
-### [🌎 Issues](https://github.com/Leandro-Cardoso/STUDY-HTML-CSS-JavaScript-Git-GitHub/issues) | [🌎 Pull Requests](https://github.com/Leandro-Cardoso/STUDY-HTML-CSS-JavaScript-Git-GitHub/pulls)
-
-1. `Fork` this project.
-2. Code... 💻
-3. Make a `pull request` for this project. (Thank you ❕❕❕ 😉)
-
-**Ps:** I will read all contributions.
-
-<div align="center">
-    <h2>Author</h2>
+    <h2>Autor</h2>
     <a href="https://github.com/Leandro-Cardoso">
         <img src="https://avatars.githubusercontent.com/u/41876952?v=4" alt="Profile Pic" width="150" style="border-radius: 50%"/>
     </a>
