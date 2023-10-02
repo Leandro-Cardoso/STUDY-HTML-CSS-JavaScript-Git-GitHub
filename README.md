@@ -5,7 +5,7 @@
 </a><br>
 <a href="https://Leandro-Cardoso.github.io/STUDY-HTML-CSS-JavaScript-Git-GitHub/projeto/" target="_blank">
     🌎 LINK DO PROJETO
-</a>**
+</a>** - Layout Personal Page
 
 <div align="center">
     <h2>Sobre</h2>
